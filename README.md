@@ -2,7 +2,7 @@
 
 ## Demo App
 
-- [Demo App](/apk/app.apk)
+- [Demo App](https://github.com/om-chauhan/signin-and-signup-UI-in-flutter/blob/master/apk/app.apk)
 
 ## Getting Started
 
