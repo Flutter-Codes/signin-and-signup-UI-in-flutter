@@ -2,7 +2,7 @@
 
 ## Demo App
 
-- [Demo App](https://github.com/om-chauhan/Super-Store-Ecommerce-App-using-REST-Api-in-Flutter/releases/download/v1.0/app-debug.apk)
+- [Demo App](/apk/app.apk)
 
 ## Getting Started
 
