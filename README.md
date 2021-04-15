@@ -1,9 +1,5 @@
 # Signin and Signup UI in Flutter
 
-## Demo App
-
-- [Demo App](https://github.com/om-chauhan/signin-and-signup-UI-in-flutter/blob/master/apk/app.apk)
-
 ## Getting Started
 
 #### 1. Copy or Download code in your system
